@@ -1,7 +1,3 @@
-/* Batalha Naval ++: modificado
- * Inclui validacoes de tamanho, checagem de sobreposicao,
- * camada separada para efeitos e diagonal secundaria.
- */
 #include <stdio.h>
 #include <stdlib.h>
 
